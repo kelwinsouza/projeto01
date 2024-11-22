@@ -63,8 +63,8 @@ nav {
 }
 nav > a {
     gap: 10px;
-    grid-template-columns: repeat(4, 1fr);
-    display: grid;
+    /*grid-template-columns: repeat(4, 1fr);
+    display: grid;*/
     color: white;
     padding: 10px;
     text-decoration: none;
